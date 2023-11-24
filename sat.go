@@ -4,11 +4,11 @@ import "fmt"
 
 var (
 	entries = []*Entry{
-		{NameSuffix: "-10", DownlinkOffset: -0.01, UplinkOffset: +0.005},
+		{NameSuffix: "-10", DownlinkOffset: -0.01, UplinkOffset: 0},
 		{NameSuffix: "-5", DownlinkOffset: -0.005, UplinkOffset: 0},
 		{NameSuffix: "--", DownlinkOffset: 0, UplinkOffset: 0},
 		{NameSuffix: "+5", DownlinkOffset: +0.005, UplinkOffset: 0},
-		{NameSuffix: "+10", DownlinkOffset: +0.01, UplinkOffset: -0.005},
+		{NameSuffix: "+10", DownlinkOffset: +0.01, UplinkOffset: 0},
 	}
 )
 
