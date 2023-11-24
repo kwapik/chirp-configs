@@ -31,7 +31,7 @@ func main() {
 		// Commented out until they are launched/enabled.
 		// {"CS7A", 435.455, 145.950, 88.5},
 		// {"CS7C", 435.690, 145.900, 88.5},
-		{"TEVL", 435.400, 145.970, 88.5},
+		{"TEVL", 436.400, 145.970, 88.5},
 		// Commented out until they are launched/enabled.
 		// {"CSS1", 436.510, 145.875, 88.5},
 		// {"CSS2", 145.985, 435.075, 88.5},
